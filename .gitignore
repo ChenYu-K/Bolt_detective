@@ -140,3 +140,5 @@ bolt/test
 *.pt
 *.pkl
 *.pptx
+Faster-CNN-book/cydata
+Faster-CNN-book/smallbdd
