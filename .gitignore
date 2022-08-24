@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#figdata
+bolt/experiment/rowdata
+bolt/experiment/label
+bolt/experiment/train
+bolt/experiment/valid
+bolt/experiment/valid_row
+bolt/experiment/bdetec
+bolt/train
+bolt/test
+*.pt
+*.pkl
+*.pptx
